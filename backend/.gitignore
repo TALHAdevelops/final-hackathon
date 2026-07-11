@@ -44,3 +44,6 @@ yarn-error.log*
 
 # temp
 /tmp
+
+.vercel
+.env*

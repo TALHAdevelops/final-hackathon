@@ -4,6 +4,16 @@
 
 MaintainIQ gives every physical asset a digital identity, a QR-accessible public page, an AI-assisted issue-reporting workflow, and a permanent, append-only service history. The QR code is only the entry point — the real value is in issue triage, assignment, maintenance workflow, evidence, history, and accountability.
 
+## Live Demo
+
+| | URL |
+|--|-----|
+| **Web app** | https://maintainiq-web.vercel.app |
+| **API** | https://maintainiq-api.vercel.app/api |
+| **Repo** | https://github.com/Muhammad-Anas809282/maintainiq |
+
+Sign in at the web app with the demo credentials below. To try the public QR flow, open any asset in the console and use "Open public page".
+
 ---
 
 ## Tech Stack
