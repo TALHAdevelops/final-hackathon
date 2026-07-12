@@ -10,7 +10,7 @@ MaintainIQ gives every physical asset a digital identity, a QR-accessible public
 |--|-----|
 | **Web app** | https://maintainiq-web.vercel.app |
 | **API** | https://maintainiq-api.vercel.app/api |
-| **Repo** | https://github.com/Muhammad-Anas809282/maintainiq |
+| **Repo** | https://github.com/TALHAdevelops/final-hackathon |
 
 Sign in at the web app with the demo credentials below. To try the public QR flow, open any asset in the console and use "Open public page".
 
